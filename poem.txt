@@ -4,7 +4,7 @@ Pink
 Orange, and be nice to other humans today
 Blue
 Green
-Yellow
+Yellow, say something nice to another human today
 Red
 these are the colors of the rainbow
 
@@ -12,4 +12,4 @@ DONT FORGET TO RECYCLE!!
 Im new to this
 I'm teaching this 2022
 
-Canges to a file
+Changes to a file
